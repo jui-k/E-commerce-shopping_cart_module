@@ -1,0 +1,7 @@
+Bread, 14.95
+Milk, 10.0 
+Eggs, 39.55
+Almonds, 234.32
+Ready to cook mix, 213.23
+Chocolate cake, 313.33
+Rice, 23.34
